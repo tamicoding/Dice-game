@@ -18,7 +18,7 @@ JavaScript (DOM manipulation) for dynamic updates and logic
 
 📂 How to Run?
 Clone the repository:
-https://github.com/evilfuckinqueen/Dice-game
+https://github.com/tamicoding/Dice-game
 
 Open the index.html file in your browser
 
